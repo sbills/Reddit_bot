@@ -18,4 +18,4 @@ The bot will also store the id's of who it has replied to in order to eliminate 
 
 The bot will check its previous comments right before it goes to sleep and will delete any comments when the score reaches a certain threshold.
 
-The authentication file is the only one i didnt include in this repository becuase it has the login info for my bot. If you want to use or improve (please do) this bot, just make a file that states the username, password, and keys for reddit authentication through praw. If you dont have the keys go on reddit to apps and register
+The authentication file is empty and is ready for the information for your bot to be put into each field.
